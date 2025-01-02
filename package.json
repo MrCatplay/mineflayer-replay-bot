@@ -1,0 +1,11 @@
+{
+    "name": "mineflayer-replay-bot",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "description": "A Mineflayer replay bot module",
+    "author": "MrKot",
+    "license": "MIT",
+    "dependencies": {
+        "mineflayer": "^4.0.0"
+    }
+}
