@@ -26,7 +26,7 @@ async function initReplayMod(bot, output) {
 
     global.metadata = {
         singleplayer: false,
-        serverName: "FildBot",
+        serverName: "mineflayer-replay-bot",
         duration: 0,
         date: 0,
         mcversion: bot.version,
